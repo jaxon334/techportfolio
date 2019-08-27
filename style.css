@@ -1,0 +1,60 @@
+* {
+    margin: 0 auto;
+    text-align: center;
+}
+
+html {
+
+
+    background-color: mediumspringgreen;
+
+    color: white;
+    font-family: inheritsans-serif;
+    font-size: 1.5em;
+
+}
+
+
+
+body {
+    height: 100vh;
+
+    background-color: #5BC0EB;
+
+    color: #001011;
+}
+
+
+
+
+
+
+
+
+
+img {
+    width: 40vh;
+
+
+}
+
+
+ul {
+    display: inline-block;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
